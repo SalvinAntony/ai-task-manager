@@ -15,5 +15,5 @@ This is a Flask-based web app that classifies user input as **😊 Positive**, *
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/sam27peter/sentiment-analyzer.git
+   git clone https://github.com/SalvinAntony/ai-task-manager
    cd sentiment-analyzer
